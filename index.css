@@ -12,6 +12,10 @@ header{
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid #e8e2e2 ;
+    position: fixed;
+    top: 0;
+    width: 100%;
+ 
     
     
 }
@@ -109,6 +113,7 @@ header{
 
 .banner_image{
     width: 100%;
+    margin-top: 70px;
 }
 
 .category_heading{
